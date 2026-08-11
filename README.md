@@ -370,20 +370,11 @@ sales-analytics-and-performance-dashboard/
 │   └── fact_internetsales.sql
 ```
 
---------------------------------------------------------------------------------------
-File                                               Description
--------------------------------------------------- -----------------------------------
-`README.md`                                        Project documentation and instructions
-
-`data/`                                            Exported CSV datasets used for local
-                                                    development or Power BI imports
-
-`sql/`                                             T-SQL scripts that prepare analytical
-                                                    tables (Dim_Calendar, Dim_Customers,
-                                                    Dim_Products, Fact_Internet_Sales)
---------------------------------------------------------------------------------------
-
-------------------------------------------------------------------------
+e / Directory | Description |
+|---|---|
+| `README.md` | Project documentation and instructions |
+| `data/` | Exported CSV datasets used for local development or Power BI imports |
+| `sql/` | T-SQL scripts that prepare analytical tables (`Dim_Calendar`, `Dim_Customers`, `Dim_Products`, `Fact_Internet_Sales`) |
 
 # 🚀 How to Reproduce
 
